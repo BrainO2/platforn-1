@@ -1,1 +1,1 @@
-# platforn-1
+# platform-1
